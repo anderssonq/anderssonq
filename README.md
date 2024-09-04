@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **Software Engineer** with over 7 years of experienc
 
 ## 🚀 About Me
 ![Ander](https://drive.usercontent.google.com/download?id=1x1GWO7UZQqYdriCCmQ38OYTZPdO8QvDD&authuser=0|width=300)
-I'm a 29-year-old Venezuelan software engineer currently based in Buenos Aires, Argentina 🇦🇷. I have a proven track record of delivering top-notch applications that meet the needs of both businesses and users. With a strong foundation in programming principles and a keen interest in continuous learning, I strive to write clean, efficient code that is easy to maintain and extend.
+I'm a software engineer currently based in Buenos Aires, Argentina 🇦🇷. I have a proven track record of delivering top-notch applications that meet the needs of both businesses and users. With a strong foundation in programming principles and a keen interest in continuous learning, I strive to write clean, efficient code that is easy to maintain and extend.
 
 ### 🔑 Key Skills & Tools:
 - **Languages & Frameworks:** JavaScript, TypeScript, Vue, Angular, React, React Native, Ionic, Python, Ruby on Rails.
