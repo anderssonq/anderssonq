@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="214" viewBox="0 0 420 214" role="img" aria-labelledby="title desc">
+  <title id="title">NvSinner</title>
+  <desc id="desc">NvSinner, written in Lua. A Neovim distribution that turns your terminal into a Cursor-like AI IDE. AI-assisted coding, never leave the shell.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .path { font-size: 12px; fill: #828bb8; } .lang { font-size: 12px; fill: #a9b1d6; }
+    .name { font-size: 24px; font-weight: 700; fill: #c0caf5; } .desc { font-size: 13.5px; fill: #a9b1d6; }
+    .chip { font-size: 12px; fill: #7dcfff; } .cta { font-size: 12px; fill: #7aa2f7; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="213" rx="12" fill="#1a1b26" stroke="#292e42"/>
+  <text x="24" y="32" class="path">~/projects/nvsinner</text>
+  <circle cx="363" cy="28" r="5" fill="#51a0cf"/>
+  <text x="396" y="32" class="lang" text-anchor="end">Lua</text>
+  <text x="24" y="70" class="name">NvSinner</text>
+  <text x="24" y="100" class="desc">A Neovim distribution that turns your</text>
+  <text x="24" y="120" class="desc">terminal into a Cursor-like AI IDE.</text>
+  <text x="24" y="140" class="desc">AI-assisted coding, never leave the shell.</text>
+  <rect x="24" y="166" width="68" height="22" rx="11" fill="#292e42"/><text x="34" y="181" class="chip">neovim</text>
+  <rect x="100" y="166" width="36" height="22" rx="11" fill="#292e42"/><text x="110" y="181" class="chip">ai</text>
+  <rect x="144" y="166" width="44" height="22" rx="11" fill="#292e42"/><text x="154" y="181" class="chip">lua</text>
+  <text x="396" y="181" class="cta" text-anchor="end">view repo →</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="214" viewBox="0 0 420 214" role="img" aria-labelledby="title desc">
+  <title id="title">Sinscribe</title>
+  <desc id="desc">Sinscribe, written in TypeScript. A git-centric workflow assistant CLI. PR descriptions, commit messages, branch names and AI agent context files.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .path { font-size: 12px; fill: #828bb8; } .lang { font-size: 12px; fill: #a9b1d6; }
+    .name { font-size: 24px; font-weight: 700; fill: #c0caf5; } .desc { font-size: 13.5px; fill: #a9b1d6; }
+    .chip { font-size: 12px; fill: #7dcfff; } .cta { font-size: 12px; fill: #7aa2f7; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="213" rx="12" fill="#1a1b26" stroke="#292e42"/>
+  <text x="24" y="32" class="path">~/projects/sinscribe</text>
+  <circle cx="314" cy="28" r="5" fill="#3178c6"/>
+  <text x="396" y="32" class="lang" text-anchor="end">TypeScript</text>
+  <text x="24" y="70" class="name">Sinscribe</text>
+  <text x="24" y="100" class="desc">A git-centric workflow assistant CLI.</text>
+  <text x="24" y="120" class="desc">PR descriptions, commit messages, branch</text>
+  <text x="24" y="140" class="desc">names and AI agent context files.</text>
+  <rect x="24" y="166" width="44" height="22" rx="11" fill="#292e42"/><text x="34" y="181" class="chip">cli</text>
+  <rect x="76" y="166" width="44" height="22" rx="11" fill="#292e42"/><text x="86" y="181" class="chip">git</text>
+  <rect x="128" y="166" width="36" height="22" rx="11" fill="#292e42"/><text x="138" y="181" class="chip">ai</text>
+  <text x="396" y="181" class="cta" text-anchor="end">view repo →</text>
+</svg>
