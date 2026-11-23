@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/anderssonq/nvsinner"><img src="assets/nvsinner.svg" width="400" alt="NvSinner, written in Lua: a Neovim distribution that turns your terminal into a Cursor-like AI IDE. View the repository." /></a>
   <a href="https://github.com/anderssonq/sinscribe"><img src="assets/sinscribe.svg" width="400" alt="Sinscribe, written in TypeScript: a git-centric workflow assistant CLI for PR descriptions, commit messages, branch names and AI agent context files. View the repository." /></a>
-  <a href="https://github.com/anderssonq/herdsidian"><img src="assets/herdsidian.svg" width="400" alt="Herdsidian, written in JavaScript: your Obsidian vault inside Herdr, with notes, a local graph and agent context next to Claude Code, Codex and Grok. View the repository." /></a>
+  <a href="https://github.com/anderssonq/herdsidian"><img src="assets/herdsidian.svg" width="400" alt="Herdsidian, written in JavaScript: your Obsidian vault inside Herdr, the app that runs your coding agents, with notes, a local graph and agent context next to Claude Code, Codex and Grok. View the repository." /></a>
 </p>
 
 ## 🤝 Work with me &nbsp;<sub><code>:help hire</code></sub>

@@ -26,18 +26,18 @@
   <text x="326" y="27" class="tab">stack.json</text>
   <text x="840" y="27" class="tab" text-anchor="end">nvim</text>
 
-    <text x="46" y="72" class="nr">1</text>
-    <text x="46" y="96" class="nr">2</text>
-    <text x="46" y="120" class="nr">3</text>
-    <text x="46" y="144" class="nr">4</text>
-    <text x="46" y="168" class="nr">5</text>
-    <text x="46" y="192" class="nr">6</text>
-    <text x="46" y="216" class="nr">7</text>
-    <text x="46" y="240" class="nr">8</text>
-    <text x="46" y="264" class="nr">9</text>
-    <text x="46" y="288" class="nr">10</text>
-    <text x="46" y="312" class="nr">11</text>
-    <text x="46" y="336" class="nr">12</text>
+  <text x="46" y="72" class="nr">1</text>
+  <text x="46" y="96" class="nr">2</text>
+  <text x="46" y="120" class="nr">3</text>
+  <text x="46" y="144" class="nr">4</text>
+  <text x="46" y="168" class="nr">5</text>
+  <text x="46" y="192" class="nr">6</text>
+  <text x="46" y="216" class="nr">7</text>
+  <text x="46" y="240" class="nr">8</text>
+  <text x="46" y="264" class="nr">9</text>
+  <text x="46" y="288" class="nr">10</text>
+  <text x="46" y="312" class="nr">11</text>
+  <text x="46" y="336" class="nr">12</text>
 
   <text x="64" y="72" class="line cm" style="animation-delay:0.1s">// about.ts: hi, I'm Andersson</text>
   <text x="64" y="120" class="line" style="animation-delay:0.35s"><tspan class="kw">const</tspan><tspan class="fg"> andersson </tspan><tspan class="pn">= {</tspan></text>
@@ -48,7 +48,7 @@
   <text x="64" y="240" class="line" style="animation-delay:1.6s"><tspan class="prop">  focus</tspan><tspan class="pn">: [</tspan><tspan class="str">"clean architecture"</tspan><tspan class="pn">, </tspan><tspan class="str">"great DX"</tspan><tspan class="pn">],</tspan></text>
   <text x="64" y="264" class="line" style="animation-delay:1.85s"><tspan class="prop">  openTo</tspan><tspan class="pn">: [</tspan><tspan class="str">"freelance"</tspan><tspan class="pn">, </tspan><tspan class="str">"full-time"</tspan><tspan class="pn">, </tspan><tspan class="str">"open source"</tspan><tspan class="pn">],</tspan></text>
   <text x="64" y="288" class="line" style="animation-delay:2.1s"><tspan class="pn">};</tspan></text>
-  <text x="64" y="336" class="line" style="animation-delay:2.35s"><tspan class="kw">export default</tspan><tspan class="fg"> andersson</tspan><tspan class="pn">;</tspan><tspan class="cursor">█</tspan></text>
+  <text x="64" y="336" class="line" style="animation-delay:2.35s"><tspan class="kw">export default</tspan><tspan class="fg"> andersson</tspan><tspan class="pn">;</tspan><tspan class="cursor">▎</tspan></text>
 
   <rect y="354" width="860" height="26" fill="#16161e"/>
   <rect y="354" width="78" height="26" fill="#9ece6a"/>

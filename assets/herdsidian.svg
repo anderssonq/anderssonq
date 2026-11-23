@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="214" viewBox="0 0 420 214" role="img" aria-labelledby="title desc">
   <title id="title">Herdsidian</title>
-  <desc id="desc">Herdsidian, written in JavaScript. Your Obsidian vault inside Herdr: notes, a local graph and agent context, next to Claude Code, Codex and Grok.</desc>
+  <desc id="desc">Herdsidian, written in JavaScript. Your Obsidian vault inside Herdr, the app that runs your coding agents: notes, a local graph and agent context right next to Claude Code, Codex and Grok.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
     .path { font-size: 12px; fill: #828bb8; } .lang { font-size: 12px; fill: #a9b1d6; }
@@ -12,9 +12,9 @@
   <circle cx="314" cy="28" r="5" fill="#f1e05a"/>
   <text x="396" y="32" class="lang" text-anchor="end">JavaScript</text>
   <text x="24" y="70" class="name">Herdsidian</text>
-  <text x="24" y="100" class="desc">Your Obsidian vault inside Herdr: notes,</text>
-  <text x="24" y="120" class="desc">a local graph and agent context, right</text>
-  <text x="24" y="140" class="desc">next to Claude Code, Codex and Grok.</text>
+  <text x="24" y="100" class="desc">Your Obsidian vault inside Herdr, the</text>
+  <text x="24" y="120" class="desc">app that runs your coding agents: notes,</text>
+  <text x="24" y="140" class="desc">a local graph and context next to them.</text>
   <rect x="24" y="166" width="60" height="22" rx="11" fill="#292e42"/><text x="34" y="181" class="chip">herdr</text>
   <rect x="92" y="166" width="84" height="22" rx="11" fill="#292e42"/><text x="102" y="181" class="chip">obsidian</text>
   <rect x="184" y="166" width="68" height="22" rx="11" fill="#292e42"/><text x="194" y="181" class="chip">agents</text>
